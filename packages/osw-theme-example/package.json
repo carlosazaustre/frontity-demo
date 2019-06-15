@@ -1,0 +1,16 @@
+{
+  "name": "osw-theme-example",
+  "version": "0.2.0",
+  "description": "An example theme based on @frontity/mars-theme",
+  "keywords": [],
+  "homepage": "https://frontity.org",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@frontity/router": "^1.0.3",
+    "@frontity/source": "^1.0.2",
+    "frontity": "^1.0.1"
+  },
+  "dependencies": {
+    "react-spinners": "^0.5.4"
+  }
+}

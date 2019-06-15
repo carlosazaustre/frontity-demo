@@ -1,0 +1,95 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.34.0",
+  "hash": "be3a43f1588bd62f8063",
+  "publicPath": "/static/",
+  "outputPath": "/Users/cazaustre/code/src/github.com/carlosazaustre/demo-frontity/build/static",
+  "assetsByChunkName": {
+    "demo-frontity": [
+      "demo-frontity.module.js",
+      "demo-frontity.cd90941ac4bc6489bc68.hot-update.js"
+    ],
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "cd90941ac4bc6489bc68.hot-update.json",
+      "size": 55,
+      "chunks": [],
+      "chunkNames": [],
+      "emitted": false
+    },
+    {
+      "name": "demo-frontity.cd90941ac4bc6489bc68.hot-update.js",
+      "size": 5208,
+      "chunks": [
+        "demo-frontity"
+      ],
+      "chunkNames": [
+        "demo-frontity"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "demo-frontity.module.js",
+      "size": 3071072,
+      "chunks": [
+        "demo-frontity"
+      ],
+      "chunkNames": [
+        "demo-frontity"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 14914,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "demo-frontity": {
+      "chunks": [
+        "demo-frontity"
+      ],
+      "assets": [
+        "demo-frontity.module.js",
+        "demo-frontity.cd90941ac4bc6489bc68.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "demo-frontity": {
+      "chunks": [
+        "demo-frontity"
+      ],
+      "assets": [
+        "demo-frontity.module.js",
+        "demo-frontity.cd90941ac4bc6489bc68.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "children": []
+}
